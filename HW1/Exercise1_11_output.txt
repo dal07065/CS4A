@@ -1,0 +1,7 @@
+Starting Population : 312032486 people.
+
+Year 1 - Population : 314812582 people.
+Year 2 - Population : 317592678 people.
+Year 3 - Population : 320372774 people.
+Year 4 - Population : 323152870 people.
+Year 5 - Population : 325932966 people.

@@ -1,0 +1,6 @@
+Given Equation:
+3.4x + 50.2y = 44.5
+2.1x + 0.55y = 5.9
+
+'x' is equal to 2.623901496861419
+'y' is equal to 0.7087397392563978
