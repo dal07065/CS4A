@@ -1,0 +1,5 @@
+Please enter the first number (an int): 2500
+Please enter the second number (an int): 10000
+Please enter the third number (a long): 4000000000
+
+The average of 2500, 10000, and 4000000000 is 1.3333375E9

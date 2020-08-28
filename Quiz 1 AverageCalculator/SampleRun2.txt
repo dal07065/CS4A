@@ -1,0 +1,5 @@
+Please enter the first number (an int): 5
+Please enter the second number (an int): 7
+Please enter the third number (a long): 200
+
+The average of 5, 7, and 200 is 70.66
