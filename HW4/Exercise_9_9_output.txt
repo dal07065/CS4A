@@ -1,0 +1,11 @@
+Polygon 1 : no-arg constructor
+Perimeter: 3.0
+Area: 0.43301270189221946
+
+Polygon 2 : 2-arg constructor
+Perimeter: 24.0
+Area: 41.569219381653056
+
+Polygon 3 : 4-arg constructor
+Perimeter: 40.0
+Area: 123.10734148701015

@@ -1,0 +1,33 @@
+// Example Run #1
+You rolled 1 + 3 = 4
+point is 4
+You rolled 6 + 6 = 12
+point is 12
+You rolled 6 + 6 = 12
+point is 12
+You rolled 6 + 4 = 10
+point is 10
+You rolled 1 + 4 = 5
+point is 5
+You rolled 6 + 6 = 12
+point is 12
+You rolled 3 + 5 = 8
+point is 8
+You rolled 1 + 3 = 4
+You win
+
+// Example Run #2
+You rolled 4 + 2 = 6
+point is 6
+You rolled 4 + 2 = 6
+You win
+
+// Example Run #3
+You rolled 2 + 2 = 4
+point is 4
+You rolled 2 + 5 = 7
+You lose
+
+// Example Run #4
+You rolled 4 + 3 = 7
+You win

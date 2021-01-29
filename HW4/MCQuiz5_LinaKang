@@ -1,0 +1,52 @@
+Kang, Lina
+1072568
+E
+BCD
+ACD
+AD
+D
+A
+E - File("c:\\temp.txt") will not create a new file NOR return null if file is not found
+A - Constructor may invoke a static method. Constructor CANNOT be static
+B
+B
+A
+BCDE
+CD
+E
+C
+D - a private method in superclass, and an overloaded public or private method in subclass -> if an instance of subclass calls a superclass method that invokes this overridden method, it will call superclass private method no matter what?
+E
+AB
+A
+C
+AD
+C
+B
+B
+A
+B
+ABCDE
+ABCD
+D
+ACD
+AC
+ABCD
+B
+A ?
+ABCD
+AE
+A
+B
+A
+C
+B
+B
+D
+D
+A
+B
+B
+A
+A
+C

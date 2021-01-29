@@ -1,0 +1,5 @@
+Enter a SSN: 232-23-5435
+232-23-5435 is a valid social security number
+
+Enter a SSN: 23-23-5435
+23-23-5435 is an invalid social security number

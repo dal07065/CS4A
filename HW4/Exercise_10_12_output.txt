@@ -1,0 +1,5 @@
+Created a new triangle: "t1"
+
+Checking if the triangle contains (3,3)...
+
+No, it does NOT contain the point

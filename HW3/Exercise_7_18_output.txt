@@ -1,0 +1,23 @@
+// Example Run #1
+Enter ten DOUBLE numbers: 1.2
+3.4
+5.2
+6.1
+12.8
+67.4
+87.3
+46
+36.2
+75.8
+The UNSORTED array: [1.2, 3.4, 5.2, 6.1, 12.8, 67.4, 87.3, 46.0, 36.2, 75.8]
+The SORTED array:   [1.2, 3.4, 5.2, 6.1, 12.8, 36.2, 46.0, 67.4, 75.8, 87.3]
+
+// Example Run #2
+Enter ten DOUBLE numbers: 12.1 13.1 11.1 19.2 21.2 34.5 94.3 67.2 34.2 53.1 
+The UNSORTED array: [12.1, 13.1, 11.1, 19.2, 21.2, 34.5, 94.3, 67.2, 34.2, 53.1]
+The SORTED array:   [11.1, 12.1, 13.1, 19.2, 21.2, 34.2, 34.5, 53.1, 67.2, 94.3]
+
+// Example Run #3
+Enter ten DOUBLE numbers: 1 0 2 9 3 8 4 7 5 6
+The UNSORTED array: [1.0, 0.0, 2.0, 9.0, 3.0, 8.0, 4.0, 7.0, 5.0, 6.0]
+The SORTED array:   [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0]

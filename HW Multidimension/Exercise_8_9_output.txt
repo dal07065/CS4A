@@ -1,0 +1,52 @@
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+Enter a row (0, 1, or 2) for player X: 1
+Enter a column (0, 1, or 2) for player X: 1
+
+-------------
+|   |   |   |
+-------------
+|   | X |   |
+-------------
+|   |   |   |
+Enter a row (0, 1, or 2) for player O: 1
+Enter a column (0, 1, or 2) for player O: 2
+
+-------------
+|   |   |   |
+-------------
+|   | X | O |
+-------------
+|   |   |   |
+Enter a row (0, 1, or 2) for player X: 2
+Enter a column (0, 1, or 2) for player X: 2
+
+-------------
+|   |   |   |
+-------------
+|   | X | O |
+-------------
+|   |   | X |
+Enter a row (0, 1, or 2) for player O: 1
+Enter a column (0, 1, or 2) for player O: 0
+
+-------------
+|   |   |   |
+-------------
+| O | X | O |
+-------------
+|   |   | X |
+Enter a row (0, 1, or 2) for player X: 0
+Enter a column (0, 1, or 2) for player X: 0
+
+-------------
+| X |   |   |
+-------------
+| O | X | O |
+-------------
+|   |   | X |
+X player won

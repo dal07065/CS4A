@@ -1,0 +1,5 @@
+Enter a point with two coordinates: 2 2
+Point (2.0, 2.0) is in the rectangle
+
+Enter a point with two coordinates: 6 4
+Point (6.0, 4.0) is not in the rectangle

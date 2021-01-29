@@ -1,0 +1,39 @@
+// Exercise 13.5 OUTPUT //
+
+Created circleDefault: radius = 1
+Created circleBlue: radius = 2.5
+
+Comparing circleDefault and circleBlue...
+
+*circleBlue is larger than circleDefault*
+
+Created rectangleDefault: length = 1, width = 1
+Created rectangleOrange: length = 2, width = 5
+
+Comparing rectangleDefault and rectangleOrange...
+
+*rectangleOrange is larger than rectangleDefault*
+
+// Exercise 13.6 OUTPUT //
+
+Created circle1: radius = 4.5
+Created circle2: radius = 1.5
+
+Comparing circle1 and circle2...
+
+circle1 is larger than circle2.
+
+// Exercise 13.7 OUTPUT //
+
+Area of this GeometricObject:   7.07
+
+Area of this GeometricObject:  50.00
+
+Area of this GeometricObject:   9.87
+This object is colorable. How to color: Color all four sides.
+
+Area of this GeometricObject:  12.44
+
+Area of this GeometricObject: 625.00
+This object is colorable. How to color: Color all four sides.
+

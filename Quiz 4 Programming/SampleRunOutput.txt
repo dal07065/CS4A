@@ -1,0 +1,38 @@
+Enter a SINGLE number. This will be used for the circle radius, the square's side, and one side of the rectangle:
+1
+Enter the other side of the rectangle:
+1
+
+Circle area: 3.14159
+Square area: 1.0
+Rectangle area: 1.0
+
+Circle area: 6.28318
+Square area: 4.0
+Rectangle area: 4.0
+
+Enter a SINGLE number. This will be used for the circle radius, the square's side, and one side of the rectangle:
+10
+Enter the other side of the rectangle:
+12
+
+Circle area: 314.159
+Square area: 100.0
+Rectangle area: 120.0
+
+Circle area: 62.8318
+Square area: 40.0
+Rectangle area: 44.0
+
+Enter a SINGLE number. This will be used for the circle radius, the square's side, and one side of the rectangle:
+5.7
+Enter the other side of the rectangle:
+6.3
+
+Circle area: 102.0702591
+Square area: 32.49
+Rectangle area: 35.91
+
+Circle area: 35.814126
+Square area: 22.8
+Rectangle area: 24.0

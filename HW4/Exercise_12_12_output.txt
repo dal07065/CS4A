@@ -1,0 +1,26 @@
+PS C:\Users\dal07\Documents\Fall 2020\CS4A\HW4> java Exercise_12_12.java Test.java
+Before the reformatting...
+
+public class Test 
+{
+    public static void main(String[]args)
+    {
+        String strawberries = "strawberries";
+
+        if(strawberries != "0")
+        {
+            System.out.println("No");
+        }
+    }
+}
+
+After reformatting...
+
+public class Test  {
+    public static void main(String[]args) {
+        String strawberries = "strawberries";
+        if(strawberries != "0") {
+            System.out.println("No");
+        }
+    }
+}

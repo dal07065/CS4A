@@ -1,0 +1,5 @@
+PS C:\Users\#####\Documents\Fall 2020\CS4A\HW4> java Exercise_12_13.java Test.java
+File Test.java has
+135 characters
+22 words
+8 lines

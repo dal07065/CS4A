@@ -1,0 +1,8 @@
+Enter an ASCII code: 69
+The character for ASCII code 69 is E
+
+Enter an ASCII code: 120
+The character for ASCII code 120 is x
+
+Enter an ASCII code: 93
+The character for ASCII code 93 is ]

@@ -1,0 +1,6 @@
+Please enter first edge: 7
+Please enter second edge: 8
+Please enter third edge: 9
+
+The input is valid.
+Triangle Perimeter: 24.0

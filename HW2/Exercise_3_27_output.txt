@@ -1,0 +1,11 @@
+Enter a point's x- and y-coordinates: 100.5 25.5
+The point is in the triangle 
+
+Enter a point's x- and y-coordinates: 100.5 50.5           cise_3_27.java      
+The point is not in the triangle
+
+Enter a point's x- and y-coordinates: 100.0 50.0           cise_3_27.java      
+The point is in the triangle
+
+Enter a point's x- and y-coordinates: 100.0 50.5
+The point is not in the triangle

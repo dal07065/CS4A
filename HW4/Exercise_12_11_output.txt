@@ -1,0 +1,12 @@
+PS C:\Users\#####\Documents\Fall 2020\CS4A\HW4> java Exercise_12_11.java John filename.txt    
+Before the removal of "John"...
+
+John had a good dinner.
+It wasn't John who did that.
+She called John over the phone just a second ago.
+
+After the removal of "John"...
+
+ had a good dinner.
+It wasn't  who did that.
+She called  over the phone just a second ago.
